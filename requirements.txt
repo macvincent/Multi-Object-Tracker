@@ -1,0 +1,7 @@
+opencv-python
+opencv-contrib-python
+tensorflow
+tensorflow-hub
+scipy
+filterpy==1.4.5
+moviepy
